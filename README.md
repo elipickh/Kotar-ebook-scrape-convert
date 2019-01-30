@@ -1,4 +1,4 @@
-# Kotar-ebook-scarpe-convert
+# Kotar-ebook-scrape-convert
 R code to download free ebooks from school.kotar.cet.ac.il (using RSelenium) and convert to pdf with dynamic page splits
 
 Example:
