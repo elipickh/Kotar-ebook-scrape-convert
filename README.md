@@ -3,7 +3,7 @@ R code to download free ebooks from school.kotar.cet.ac.il (using RSelenium) and
 
 Example:
 
-url = 'https://school.kotar.cet.ac.il/KotarApp/Viewer.aspx?nBookID=104717391'
+url = 'https://school.kotar.cet.ac.il/KotarApp/Viewer.aspx?nBookID=94485083'
 
 book_name = 'kesem1'
 
